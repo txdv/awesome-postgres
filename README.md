@@ -73,6 +73,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * Node: [node-postgres](https://github.com/brianc/node-postgres)
 * PHP: [Pomm](http://www.pomm-project.org)
+* C#: [npgsql](http://www.npgsql.org/doc/)
+* Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
